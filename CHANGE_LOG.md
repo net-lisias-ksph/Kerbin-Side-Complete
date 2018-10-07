@@ -1,5 +1,8 @@
 # Kerbin-Side Complete :: Change Log
 
+* 2017-0605: 1.4 (GER_Space) for KSP 1.3.0
+	+ added a new carrier for sea launches and landing (donated by Spannermonkey)
+	+ replaced the controlTower model
 * 2017-0603: 1.3.0 (GER_Space) for KSP 1.3.0
 	+ updated facility configs for Kerbal Konstructs 1.0
 * 2017-0529: 1.2.1 (GER_Space) for KSP 1.3.0
