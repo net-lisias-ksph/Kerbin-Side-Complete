@@ -1,5 +1,8 @@
 # Kerbin-Side Complete :: Change Log
 
+* 2018-0807: 1.4.5 (GER_Space) for KSP 1.4.5
+	+ Update for 1.4.5
+	+ Changes hte reference system to m aboce surface.
 * 2017-0605: 1.4 (GER_Space) for KSP 1.3.0
 	+ added a new carrier for sea launches and landing (donated by Spannermonkey)
 	+ replaced the controlTower model
