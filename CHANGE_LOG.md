@@ -1,5 +1,7 @@
 # Kerbin-Side Complete :: Change Log
 
+* 2017-0502: 1.2 (GER_Space) for KSP 1.2.2
+	+ No changelog provided
 * 2016-0506: 1.1.0 (AlphaAsh) for KSP 1.1.2
 	+ Many more bases have operational facilities that are now operational.
 * 2016-0423: 1.0.9 (AlphaAsh) for KSP 1.1.2
