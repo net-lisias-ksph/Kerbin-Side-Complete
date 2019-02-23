@@ -1,5 +1,7 @@
 # Kerbin-Side Complete :: Change Log
 
+* 2018-1218: 1.5.1 (GER_Space) for KSP 1.5.1
+	+ fix broken bases (RoundRidge, KSCUpgrades and KSC2)
 * 2018-1217: 1.4.5.26 (GER_Space) for KSP 1.4.5
 	+ Fix the carrier launch.
 	+ new 3d model by SpannerMonkey for the carrier
