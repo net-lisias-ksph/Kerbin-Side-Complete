@@ -1,8 +1,11 @@
 # Kerbin-Side Complete :: Change Log
 
-* 2018-1106: 1.4.5.25 (GER-Space) for KSP 1.5.1
+* 2018-1217: 1.4.5.26 (GER_Space) for KSP 1.4.5
+	+ Fix the carrier launch.
+	+ new 3d model by SpannerMonkey for the carrier
+* 2018-1106: 1.4.5.25 (GER-Space) for KSP 1.4.5
 	+ No changelog provided
-* 2018-1106: 1.4.5.24 (GER-Space) for KSP 1.5.1
+* 2018-1106: 1.4.5.24 (GER-Space) for KSP 1.4.5
 	+ Updates for new config format of Kerbal-Konstructs
 * 2018-0807: 1.4.5 (GER_Space) for KSP 1.4.5
 	+ Update for 1.4.5
